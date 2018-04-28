@@ -1,4 +1,5 @@
 # OpenSL-ES-Record
+## [我的视频课程：《FFmpeg打造Android万能音频播放器》](https://edu.csdn.net/course/detail/6842)
 Android利用OpenSL ES录制PCM音频数据，并保存到本地。
 
 ## [博客地址：《OpenSL ES录制PCM音频数据》](https://blog.csdn.net/ywl5320/article/details/79859821)
